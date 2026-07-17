@@ -1,6 +1,6 @@
 # Copernicus Native OJS Plugin (XML Export)
 
-Developed by [Aris Supriyanto](https://github.com/arissupriy)
+Developed by [Aris Supriyanto](https://github.com/arissupriy) | [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B7L023CV1Z)
 
 ## Description
 This plugin is an Import/Export plugin for Open Journal Systems (OJS) 3.4 and 3.5. It generates standard Index Copernicus XML directly via the OJS API. 
