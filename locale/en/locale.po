@@ -1,0 +1,8 @@
+msgid "plugins.importexport.copernicusNative.displayName"
+msgstr "Copernicus XML Export (Native)"
+
+msgid "plugins.importexport.copernicusNative.description"
+msgstr "Export issue metadata in Copernicus XML format directly via OJS API. Developed by <a href=\"https://github.com/arissupriy\" target=\"_blank\">Aris Supriyanto</a>."
+
+msgid "plugins.importexport.copernicusNative.exportIssues"
+msgstr "Export selected issues"

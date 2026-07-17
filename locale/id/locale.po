@@ -1,0 +1,8 @@
+msgid "plugins.importexport.copernicusNative.displayName"
+msgstr "Ekspor XML Copernicus (Native)"
+
+msgid "plugins.importexport.copernicusNative.description"
+msgstr "Mengekspor metadata terbitan ke dalam format XML Copernicus secara langsung melalui OJS API. Dikembangkan oleh <a href=\"https://github.com/arissupriy\" target=\"_blank\">Aris Supriyanto</a>."
+
+msgid "plugins.importexport.copernicusNative.exportIssues"
+msgstr "Ekspor terbitan terpilih"
